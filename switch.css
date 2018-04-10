@@ -1,0 +1,42 @@
+.nintendo-switch-container {
+  fill: rgb(206,213,221);
+}
+
+.nintendo-switch .console .edge {
+  fill: rgb(66,74,99);
+}
+
+.nintendo-switch .console .border {
+  fill: rgb(35,38,49);
+}
+
+.nintendo-switch .console .screen {
+  fill: rgb(69,73,85);
+}
+
+.nintendo-switch .console .screen .wave {
+  fill: rgb(96,102,120);
+}
+
+.nintendo-switch .joycon {
+  stroke:none;
+  fill:#9498A8;
+  stroke-miterlimit:10
+}
+
+.nintendo-switch .joycon .buttons {
+  fill: rgb(35,38,49);
+}
+
+.nintendo-switch .joycon .joystick {
+  fill: rgb(35,38,49);
+}
+
+.nintendo-switch .extras {
+/*  display: none;*/
+}
+
+.nintendo-switch .joycon .extras {
+  fill: rgb(44,47,57) !important;
+  fill: red !important;
+}

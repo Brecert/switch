@@ -1,0 +1,35 @@
+.nintendo-switch-svg {
+  position: absolute;
+  top: 0vh;
+}
+
+.nintendo-switch .console .edge {
+  fill: #375;
+  fill: #2929
+}
+
+.nintendo-switch .joycon.left {
+  fill: #5CC;
+  fill: rgb(85, 204, 204)
+}
+
+.nintendo-switch .joycon.right {
+  fill: #CC5;
+  fill: rgb(204, 204, 85);
+}
+
+
+
+
+
+/* To reverse a hex, simple reverse the actual hex (#5CC to #CC5) */
+/* To average a hex, simple get the average of each one and combine it (#5CC and #CC5 (5 + 12 + 12) + (12 + 12 + 5) to #2929)*/
+/* ^ Doesn't even work */
+
+
+/* For 3 Key Hex #FFF */
+/* 17 • Hex Key ( 17 • F = 255 ) */
+
+/* For 6 Key Hex #FFFFFF */
+/* Hex Pair Key • Hex Pair Key ( F • F = 255 ) */
+
